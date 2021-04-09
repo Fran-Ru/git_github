@@ -1,6 +1,4 @@
 hola mi nombre es Franklin
-soy un soñador y que materializo
-
-esta es las clases de git y github
-
-hola mundo, me encanta viajar por el mundo
+soy un soñador y materializa
+estoy muy feliz al aprender
+git en este canal
