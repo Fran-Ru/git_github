@@ -1,2 +1,4 @@
 hola mi nombre es Franklin
-soy un soñador y materializa
+soy un soñador y que materializo
+
+esta es las clases de git y github
